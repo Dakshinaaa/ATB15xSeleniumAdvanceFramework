@@ -1,0 +1,5 @@
+package com.thetestingacademy.pages.pageObjectModel.VWO.normal_POM;
+
+public class FreeTrailPage {
+
+}
