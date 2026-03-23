@@ -3,9 +3,9 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/Users/promode/Documents/TTA/ATB15xSeleniumAdvanceFramework">
         <classes>
-            <class name="com.thetestingacademy.tests.VWO.TestVWOLogin_01_Normal_POM">
+            <class name="com.thetestingacademy.tests.VWO.TestVWOLogin_03_PF">
                 <methods>
-                    <include name="test_negative_vwo_login"/>
+                    <include name="testLoginNegativeVWO_PF"/>
                 </methods>
             </class>
         </classes>
